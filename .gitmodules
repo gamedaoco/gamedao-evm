@@ -1,0 +1,3 @@
+[submodule "packages/frontier"]
+	path = packages/frontier
+	url = git@github.com:paritytech/frontier.git
